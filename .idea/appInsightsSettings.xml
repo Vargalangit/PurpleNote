@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.UASMP.purplenote" />
+                  <option name="mobileSdkAppId" value="1:856659130163:android:a482cc54d93a8a2007b046" />
+                  <option name="projectId" value="purplenotedata" />
+                  <option name="projectNumber" value="856659130163" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

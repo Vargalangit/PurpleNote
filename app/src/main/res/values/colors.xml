@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="ungu">#48426a</color>
+    <color name="kulit">#eac495</color>
+    <color name="ungum">#B936BC</color>
+    <color name="kuning">#EADC95</color>
+    <color name="ungup">#322f51</color>
 </resources>
